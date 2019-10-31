@@ -1,6 +1,6 @@
 //program to calculate the factorial of
 //a number entered by the user using recursion
-//created by: Rukmini Bapat
+//created by: Rukmini Bapat 
 
 #include <iostream>
 
